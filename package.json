@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/draconisNoctis/nodegit-test-repo#readme",
   "dependencies": {
-    "testcafe": "0.18.5"
+    "testcafe": "0.18.5",
+    "testcafe-browser-provider-browserstack": "1.2.0"
   }
 }
